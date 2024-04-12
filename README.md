@@ -11,7 +11,7 @@
 
 Customer seeks an update on their order status, expressing concerns about its whereabouts. Based on the customer's input, the agent initiates the relevant workflow to provide tracking information.
 
-[![Screenshot]()]()
+[![Screenshot](https://i9.ytimg.com/vi_webp/W77l7FkQEzQ/mq2.webp?sqp=CLD84bAG&rs=AOn4CLBwS3KxJhF6CnAtk-iku4ZzcXlZzw)](https://www.youtube.com/watch?v=W77l7FkQEzQ&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=2)
 
 **2. Where Is My Order - Delayed Delivery**
 
