@@ -3,7 +3,7 @@
 - A training simulator featuring a realistic, simulated environment to optimize the agent onboarding experience.
 - Voiced walkthrough with Shepherd.js for guided training. See it in action – click the thumbnail
 
-[![Screenshot](https://github.com/SandeepPoonia30/myntra-smartassist2-simulator/assets/79972124/425fac88-368e-4445-98b5-c8eeac2fff51)
+[![Screenshot](https://github.com/SandeepPoonia30/myntra-smartassist2-simulator/assets/79972124/425fac88-368e-4445-98b5-c8eeac2fff51)](https://www.youtube.com/watch?v=QCYIkCgSh8Y&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa)
 
 ## Scenarios Supported (SSIs)
 
@@ -11,7 +11,7 @@
 
 Customer seeks an update on their order status, expressing concerns about its whereabouts. Based on the customer's input, the agent initiates the relevant workflow to provide tracking information.
 
-[![Screenshot](https://i9.ytimg.com/vi_webp/W77l7FkQEzQ/mq2.webp?sqp=CLD84bAG&rs=AOn4CLBwS3KxJhF6CnAtk-iku4ZzcXlZzw)](https://www.youtube.com/watch?v=W77l7FkQEzQ&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=2)
+[![Screenshot](https://github.com/SandeepPoonia30/myntra-smartassist2-simulator/assets/79972124/f51c708a-7457-4ef1-9d9d-dbe551f771e1)](https://www.youtube.com/watch?v=W77l7FkQEzQ&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=2)
 
 **2. Where Is My Order - Delayed Delivery**
 
@@ -27,4 +27,7 @@ Customer reports receiving an incorrect item in their order and needs assistance
 
 ## Technologies Used
 
-NextJS, Express.js, MySQL, Shepherd.js
+- NextJS
+- Express.js
+- MySQL
+- Shepherd.js for walkthrough
