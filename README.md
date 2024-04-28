@@ -17,7 +17,7 @@ Customer seeks an update on their order status, expressing concerns about its wh
 
 Customer wants to know the reason for the delay and a new delivery date. Based on the customer's details, the agent initiates the appropriate workflow updates the customer.
 
-[![Screenshot](https://i9.ytimg.com/vi_webp/oi0iTFH4kbk/mq2.webp?sqp=CLD84bAG&rs=AOn4CLCBJ0ARRHlsmzOgcmY3OgSEIZmXEg)](https://www.youtube.com/watch?v=oi0iTFH4kbk&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=3)
+[![Screenshot](https://github.com/SandeepPoonia30/myntra-smartassist2-simulator/assets/79972124/1eca8197-799a-41a0-9c32-fa067760b878)](https://www.youtube.com/watch?v=oi0iTFH4kbk&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=3)
 
 **3. Issue With Delivered Order - Wrong Product**
 
