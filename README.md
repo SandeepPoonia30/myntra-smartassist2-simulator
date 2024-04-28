@@ -23,7 +23,7 @@ Customer wants to know the reason for the delay and a new delivery date. Based o
 
 Customer reports receiving an incorrect item in their order and needs assistance with returns and getting the correct product. Based on the customer's description, the agent initiates the the workflow for wrong product and updates the customer.
 
-[![Screenshot](https://i9.ytimg.com/vi_webp/p3d4hnB1mqQ/mq3.webp?sqp=CLD84bAG&rs=AOn4CLCy7TSZaF6fN2oVq_uzSljJwyCr9g)](https://www.youtube.com/watch?v=p3d4hnB1mqQ&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=4)
+[![Screenshot](https://github.com/SandeepPoonia30/myntra-smartassist2-simulator/assets/79972124/15c948ac-7ea7-4790-98e4-c30e5799d74c)](https://www.youtube.com/watch?v=p3d4hnB1mqQ&list=PLb5SN1b1JnuN_BKyEeuBwIUHbxZbZYUMa&index=4)
 
 ## Technologies Used
 
